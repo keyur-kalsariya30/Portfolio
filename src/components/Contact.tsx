@@ -4,7 +4,7 @@ import { Mail, Github, Linkedin, ArrowUpRight, Copy } from "lucide-react";
 import { toast } from "sonner";
 
 const links = [
-  { label: "Email", href: "mailto:keyur@example.com", icon: Mail, value: "keyur@example.com", copyable: true },
+  { label: "Email", href: "mailto:keyurkalsariya18@gmail.com", icon: Mail, value: "ke yurkalsariya18@gmail.com", copyable: true },
   { label: "GitHub", href: "https://github.com/keyurkalsariya", icon: Github, value: "github.com/keyurkalsariya" },
   { label: "LinkedIn", href: "https://linkedin.com/in/keyurkalsariya", icon: Linkedin, value: "linkedin.com/in/keyurkalsariya" },
 ];
@@ -32,7 +32,7 @@ const Contact = () => {
               Let's connect.
             </h2>
             <p className="text-muted-foreground text-[15px] leading-[1.8] max-w-md">
-              Open to opportunities, collaborations, and interesting conversations about 
+              Open to opportunities, collaborations, and interesting conversations about
               AI-powered development. Let's build something intelligent together.
             </p>
           </motion.div>
